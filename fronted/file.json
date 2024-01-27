@@ -1,0 +1,11 @@
+{
+    "user": {
+      "id": 1,
+      "name": "deivid melega",
+      "email": "deividmelega@gmail.com",
+      "created_at": "2023-11-12T01:15:39.232Z",
+      "updated_at": "2023-11-12T01:15:39.232Z",
+      "avatar": "f30dc014-b563-4ff5-9ed4-2c4a3d96cd64-avatar.jpeg"
+    },
+    "token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MSwibmFtZSI6ImRlaXZpZCBtZWxlZ2EiLCJpYXQiOjE3MDEzMDUwMjMsImV4cCI6MTcwMTM5MTQyM30.BFKx0B9rgiOacMBumGxxZu8-R61R0kal9U5mKnP2a4o"
+}
